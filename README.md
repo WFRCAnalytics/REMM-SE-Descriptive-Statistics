@@ -1,5 +1,5 @@
 # REMM-SE-Descriptive-Statistics
-This notebook calculates descriptive statistics (including the average)  of SE values of multiple REMM runs
+This notebook dynamically calculates descriptive statistics (including the average) of SE variables from multiple REMM runs
 
 ## How to use this notebook:
 1. Input the directory containing the model run folders containing SE files.
